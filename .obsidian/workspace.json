@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd550a2b122447f",
+        "id": "0beb546523eac354",
         "type": "tabs",
         "children": [
           {
-            "id": "0fe64b873b898d69",
+            "id": "ffe7a6749ff608c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fe64b873b898d69",
+  "active": "ffe7a6749ff608c7",
   "lastOpenFiles": [
+    "2024-01-15.md",
     "Tips.md",
     "Test Note.md",
     "Health",

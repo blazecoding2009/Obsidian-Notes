@@ -6,7 +6,7 @@ Common notation used for the sum of terms (Greek S) ($\Sigma$)
 
 In general, instead of writing $u_1 + u_2 + u_3 + ... + u_n$, we write
 $$\sum_{i=1}^{n}u_i = u_1 + u_2 + u_3 + ... + u_n$$
-- $n$ = upper value for $i$
+	- $n$ = upper value for $i$
 - $u_1$ = general term written in terms of $i$
 - $i=1$ = initial value for $i$
 
