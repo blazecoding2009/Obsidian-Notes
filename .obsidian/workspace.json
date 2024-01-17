@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -141,16 +142,25 @@
                 "file": "Classes/French/Les Subjonctif.md"
               }
             }
+          },
+          {
+            "id": "e0799763491a9a76",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -159,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b0f5371386a43e5",
+  "active": "e0799763491a9a76",
   "lastOpenFiles": [
     "Tips.md",
     "Classes/French/Les Subjonctif.md",
