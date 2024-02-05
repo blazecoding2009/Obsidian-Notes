@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2b0f5371386a43e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/French/Les Subjonctif.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/French/Les Subjonctif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/French/Les Subjonctif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,8 +153,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b0f5371386a43e5",
+  "active": "8937d5ab6f02bcd6",
   "lastOpenFiles": [
+    "Science",
+    "Geography",
     "Tips.md",
     "Classes/French/Les Subjonctif.md",
     "Classes/French",
