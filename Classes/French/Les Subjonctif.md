@@ -1,9 +1,9 @@
 Pour les verbes des trois groupes le subjonctif présent - se forme à partir de la 3ème personne pluriel du présent de l'indicatif qui sert de radical pour les trois personnes du singulier et pour la 3ème du pluriel 
 
-| parler | ils parl-ent | radical | parl |
-| ---- | ---- | ---- | ---- |
-| finir | ils finiss-ent | radical | finiss |
-| boire | ils boiv-ent | radical | boiv |
+| parler | ils parl-ent | radical | parl |  |
+| ---- | ---- | ---- | ---- | ---- |
+| finir | ils finiss-ent | radical | finiss |  |
+| boire | ils boiv-ent | radical | boiv |  |
 est identique à l'imparfait de l'indicatif pour les deux premières personnes du pluriel 
 
 | parler | nous parlions | vous parliez |
