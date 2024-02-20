@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0beb546523eac354",
+        "id": "5e1e7a74f98373ca",
         "type": "tabs",
         "children": [
           {
-            "id": "ffe7a6749ff608c7",
+            "id": "b53c1fa14ea22107",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b0f5371386a43e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/French/Les Subjonctif.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/French/Les Subjonctif.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/French/Les Subjonctif.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/French/Les Subjonctif.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,8 +155,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b0f5371386a43e5",
+  "active": "b53c1fa14ea22107",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Tips.md",
     "Classes/French/Les Subjonctif.md",
     "Classes/French",
