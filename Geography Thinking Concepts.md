@@ -17,6 +17,7 @@
 	- The way that houses are arranged
 	- The way that the mountains are arranged in British Columbia
 ### **Interrelationships**:
+- Connections within and between natural and human environments
 - Mutual influence between the physical environment and human activities.
     - **Importance**:
         - Understanding these relationships aids in disaster mitigation, pollution control, and sustainable resource management.
