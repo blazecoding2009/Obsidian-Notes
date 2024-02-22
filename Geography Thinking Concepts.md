@@ -22,6 +22,7 @@
     - **Importance**:
         - Understanding these relationships aids in disaster mitigation, pollution control, and sustainable resource management.
         - Helps in decision-making regarding land use, agriculture, and urban planning.
+        - Looking for connections between and being able to analyze what is happening helps us understand the impacts that our actions have on physical a
 
 ### **Geographic Perspective:**
 - Examination of issues from various viewpoints:
