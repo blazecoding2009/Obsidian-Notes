@@ -23,5 +23,7 @@
     - We need resources to live!
 
 - Location of Canada's Resources:    
+	- What do you notice about location and Canada's resources
+		- Mostly imported 
     - Where do we live in relation to our resources?
 	    - We live very close to most of our required resources such as water, and food.
