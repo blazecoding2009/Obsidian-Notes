@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "Geography/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources.md",
+                "file": "Geography/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources.md",
+                "file": "Geography/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources.md"
+                "file": "Geography/Resources.md"
               }
             }
           },
@@ -168,10 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79265699339c779a",
+  "active": "8937d5ab6f02bcd6",
   "lastOpenFiles": [
     "Geography/Geography Thinking Concepts.md",
-    "Resources.md",
+    "Geography/Resources.md",
     "conflict-files-obsidian-git.md",
     "Tips.md",
     "Classes/French/Les Subjonctif.md",
