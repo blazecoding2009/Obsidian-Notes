@@ -24,3 +24,4 @@
 
 - Location of Canada's Resources:    
     - Where do we live in relation to our resources?
+	    - We live very close to most of our required resources such as water, and food.
