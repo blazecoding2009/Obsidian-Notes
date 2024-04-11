@@ -4,93 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "295b5d0abbf6fb6e",
+        "id": "f7d817170f5735c3",
         "type": "tabs",
         "children": [
           {
-            "id": "b600e0f90525de47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Geography Thinking Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79265699339c779a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b9ed1cedc9054ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Sustainability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7eb6d2ce9c415d19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Tragedy of the commons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71d6e52f5e45ee16",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "c47fdfc4b489c0d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Danger of Sweatshops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e1c9b0a1d2bf208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bea65fe5384f5fde",
+            "id": "9b46602e9c0ee886",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -101,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,15 +155,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bea65fe5384f5fde",
+  "active": "9b46602e9c0ee886",
   "lastOpenFiles": [
-    "Music Theory.md",
-    "Chapter 3 - Physical Geography.md",
-    "Geography/Danger of Sweatshops.md",
-    "Geography/Sustainability.md",
-    "Geography/Tragedy of the commons.md",
     "Geography/Geography Thinking Concepts.md",
     "Geography/Resources.md",
+    "Geography/Sustainability.md",
+    "Geography/Tragedy of the commons.md",
+    "Geography/Danger of Sweatshops.md",
+    "Music Theory.md",
+    "Chapter 3 - Physical Geography.md",
     "conflict-files-obsidian-git.md",
     "Tips.md",
     "Classes/French/Les Subjonctif.md",
