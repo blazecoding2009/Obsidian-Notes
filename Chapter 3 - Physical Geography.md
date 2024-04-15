@@ -14,8 +14,8 @@
 1. What is the Ring of Fire and why is it called Ring of Fire?
 		The ring of fire is a long chain of volcanos and mountains that surround the pacific. It contains more than 75% of the world's volcanos
 1. What events on the Earth’s surface tend of occur in this regions? Why do they occur here?
-    
-3. How are many of the volcanoes created? Draw and label a picture of subduction.
+		Volcanic eruptions and earthquakes tend to happen in these regions due to them having a large number of volcanos and due to the fact they are on the edges of tectonic plates.
+1. How are many of the volcanoes created? Draw and label a picture of subduction.
     
 4. What do trenches and mountain ranges have to do with the Ring of Fire and plate tectonics?
     
