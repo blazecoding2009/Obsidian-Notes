@@ -6,4 +6,8 @@
 
 ### Theory of Plate Tectonics
 - 1912 Alfred Wegener proposed the idea of Continental Drift
-	- 
+
+
+## Ring of Fire
+ - Long chain of volcanos and mountains that surround the pacific
+ - 
