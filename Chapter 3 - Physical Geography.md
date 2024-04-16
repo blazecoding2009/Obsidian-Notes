@@ -31,4 +31,4 @@
 ## Earthquakes
 Focus: Point at which the plates release tension
 Epicenter: Point where the surface of the Earth lies above the focus
-Fault: Frature in earth where the movement has occured
+		Fault: Frature in earth where the movement has occured
