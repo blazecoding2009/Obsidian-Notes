@@ -36,3 +36,9 @@ Epicenter: Point where the surface of the Earth lies above the focus
 ## The Rock Cycle
 Magma - underground
 Lava - Above ground
+
+3 types of rocks:
+- Igneous
+- Metamorphic
+- Sedimentary
+Different regions of Canada have different types of rock
