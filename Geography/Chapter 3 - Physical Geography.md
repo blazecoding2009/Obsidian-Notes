@@ -34,4 +34,5 @@ Epicenter: Point where the surface of the Earth lies above the focus
 		Fault: Frature in earth where the movement has occured
 
 ## The Rock Cycle
-- 
+Magma - underground
+Lava - Above ground
