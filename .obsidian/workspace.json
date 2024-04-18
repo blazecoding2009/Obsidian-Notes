@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Theory.md",
+                "file": "Geography/Chapter 3 - Physical Geography.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Theory.md",
+                "file": "Geography/Chapter 3 - Physical Geography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Theory.md",
+                "file": "Geography/Chapter 3 - Physical Geography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Theory.md"
+                "file": "Geography/Chapter 3 - Physical Geography.md"
               }
             }
           },
@@ -157,13 +157,13 @@
   },
   "active": "9b46602e9c0ee886",
   "lastOpenFiles": [
+    "Music Theory.md",
     "Geography/Chapter 3 - Physical Geography.md",
     "Geography/Geography Thinking Concepts.md",
     "Geography/Resources.md",
     "Geography/Sustainability.md",
     "Geography/Tragedy of the commons.md",
     "Geography/Danger of Sweatshops.md",
-    "Music Theory.md",
     "conflict-files-obsidian-git.md",
     "Tips.md",
     "Classes/French/Les Subjonctif.md",
