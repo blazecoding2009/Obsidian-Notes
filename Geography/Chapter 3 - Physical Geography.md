@@ -44,3 +44,6 @@ Lava - Above ground
 Different regions of Canada have different types of rock
 
 ## Glaciers
+Glaciation
+- Process of ice advancing and covering large areas of land
+- An Ice Age occurs when cool temperaturues endure for a long time
