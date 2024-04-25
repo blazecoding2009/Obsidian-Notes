@@ -42,3 +42,5 @@ Lava - Above ground
 - Metamorphic
 - Sedimentary
 Different regions of Canada have different types of rock
+
+## Glaciers
