@@ -46,4 +46,6 @@ Different regions of Canada have different types of rock
 ## Glaciers
 Glaciation
 - Process of ice advancing and covering large areas of land
-- An Ice Age occurs when cool temperaturues endure for a long time
+- An Ice Age occurs when cool temperatures endure for a long time
+U-Shaped valley - formed by an alpine glacier moving down a valley and scraping the walls
+Till - Material such as loose clay and gravel that gets deposited by the melting ice of a glacier
