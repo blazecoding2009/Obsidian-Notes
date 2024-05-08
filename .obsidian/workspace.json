@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5aec39b8783e6523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forestry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Chapter 3 - Physical Geography.md",
+                "file": "Forestry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Chapter 3 - Physical Geography.md",
+                "file": "Forestry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Chapter 3 - Physical Geography.md"
+                "file": "Forestry.md"
               }
             }
           },
@@ -155,10 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b46602e9c0ee886",
+  "active": "5aec39b8783e6523",
   "lastOpenFiles": [
-    "Music Theory.md",
     "Geography/Chapter 3 - Physical Geography.md",
+    "Forestry.md",
+    "Music Theory.md",
     "Geography/Geography Thinking Concepts.md",
     "Geography/Resources.md",
     "Geography/Sustainability.md",
