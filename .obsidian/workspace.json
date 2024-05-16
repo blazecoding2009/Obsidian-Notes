@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carbon Cycle.md",
+                "file": "Geography/Fracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carbon Cycle.md",
+                "file": "Geography/Fracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carbon Cycle.md",
+                "file": "Geography/Fracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carbon Cycle.md"
+                "file": "Geography/Fracking.md"
               }
             }
           },
@@ -171,15 +171,15 @@
   },
   "active": "5aec39b8783e6523",
   "lastOpenFiles": [
-    "Pasted image 20240516101221.png",
     "Geography/Chapter 3 - Physical Geography.md",
-    "Carbon Cycle.md",
-    "Music Theory.md",
-    "Geography/Geography Thinking Concepts.md",
+    "Geography/Fracking.md",
     "Geography/Resources.md",
     "Geography/Sustainability.md",
     "Geography/Tragedy of the commons.md",
-    "Geography/Danger of Sweatshops.md",
+    "Science/Carbon Cycle.md",
+    "Pasted image 20240516101221.png",
+    "Music Theory.md",
+    "Geography/Geography Thinking Concepts.md",
     "conflict-files-obsidian-git.md",
     "Tips.md",
     "Classes/French/Les Subjonctif.md",
