@@ -64,7 +64,8 @@ Fracking is used world-wide mainly in Australia, Bulgaria, Russia and Canada. As
     
     - While fracking increases natural gas availability, it also depletes finite resources.
     - [Overreliance on fracking could delay the adoption of renewable energy sources](https://journalistsresource.org/environment/environmental-costs-benefits-fracking/)
-    - 
+
+
 https://oilandgasinfo.ca/all-about-fracking/
 https://www.thecanadianencyclopedia.ca/en/article/fracking
 https://en.wikipedia.org/wiki/Fracking_in_Canada
