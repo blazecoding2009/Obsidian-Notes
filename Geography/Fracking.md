@@ -52,16 +52,13 @@ Fracking is used world-wide mainly in Australia, Bulgaria, Russia and Canada. As
 ## Negatives (Cons):
 
 1. **Environmental Impact**:
-    
     - **Air Pollution**: Fracking operations can release pollutants into the air, affecting local air quality.
     - **Water Pollution**: Improperly managed fracking can contaminate groundwater with toxic chemicals.
     - [**Land Disruption**: The process requires significant land use, disrupting ecosystems and habitats](https://journalistsresource.org/environment/environmental-costs-benefits-fracking/).
 2. **Health Concerns**:
-    
     - **Health Risks**: Exposure to fracking chemicals may pose health risks to nearby communities.
     - [**Noise and Traffic**: Increased truck traffic and noise from drilling operations can impact residents’ well-being](https://epic.uchicago.edu/insights/fracking-has-its-costs-and-benefits-the-trick-is-balancing-them/).
-3. **Resource Depletion**:
-    
+3. **Resource Depletion**:    
     - While fracking increases natural gas availability, it also depletes finite resources.
     - [Overreliance on fracking could delay the adoption of renewable energy sources](https://journalistsresource.org/environment/environmental-costs-benefits-fracking/)
 
