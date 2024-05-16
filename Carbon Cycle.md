@@ -54,3 +54,4 @@
 - The carbon cycle was balanced millions of years ago due to natural processes like photosynthesis and volcanic activity.
 - Human activities over the past century, especially industrialization and deforestation, have disrupted this balance.
 - Addresses the imbalance involves technological innovation, reforestation, and sustainable practices.
+![[Pasted image 20240516101221.png]]
