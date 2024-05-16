@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carbone.md",
+                "file": "Carbon Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carbone.md",
+                "file": "Carbon Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carbone.md",
+                "file": "Carbon Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carbone.md"
+                "file": "Carbon Cycle.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "5aec39b8783e6523",
   "lastOpenFiles": [
+    "Pasted image 20240516101221.png",
     "Geography/Chapter 3 - Physical Geography.md",
-    "Carbone.md",
+    "Carbon Cycle.md",
     "Music Theory.md",
     "Geography/Geography Thinking Concepts.md",
     "Geography/Resources.md",
