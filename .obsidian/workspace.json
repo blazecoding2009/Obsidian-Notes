@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forestry.md",
+                "file": "Fishing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forestry.md",
+                "file": "Fishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forestry.md",
+                "file": "Fishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forestry.md"
+                "file": "Fishing.md"
               }
             }
           },
@@ -171,7 +171,7 @@
   "active": "5aec39b8783e6523",
   "lastOpenFiles": [
     "Geography/Chapter 3 - Physical Geography.md",
-    "Forestry.md",
+    "Fishing.md",
     "Music Theory.md",
     "Geography/Geography Thinking Concepts.md",
     "Geography/Resources.md",
