@@ -30,6 +30,10 @@
         - **Viking** (in Alberta)
         - **Bakken** (in Saskatchewan)
         - **Montney** and **Horn River** (in British Columbia)
+
+## Fracking Worldwide
+Fracking is used world-wide mainly in Australia, Bulgaria, Russia and Canada. As of 2012, over **2.5 million “frac jobs”** (fracturing operations) had been performed worldwide on oil and gas wells. Fracking is essential for achieving adequate flow rates in shale gas, tight gas, tight oil, and coal seam gas wells globally.
+
 https://oilandgasinfo.ca/all-about-fracking/
 https://www.thecanadianencyclopedia.ca/en/article/fracking
 https://en.wikipedia.org/wiki/Fracking_in_Canada
