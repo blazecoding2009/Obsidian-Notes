@@ -35,22 +35,17 @@
 Fracking is used world-wide mainly in Australia, Bulgaria, Russia and Canada. As of 2012, over **2.5 million “frac jobs”** (fracturing operations) had been performed worldwide on oil and gas wells. Fracking is essential for achieving adequate flow rates in shale gas, tight gas, tight oil, and coal seam gas wells globally.
 
 ## Positives (Pros):
-
 1. **Bridge Fuel to Clean Energy**:
-    
     - Natural gas obtained through fracking serves as a necessary **bridge fuel** to transition from coal and petroleum to 100% clean energy.
     - [It allows for immediate reductions in greenhouse gas emissions while renewable energies (such as solar and wind) continue to develop](https://www.procon.org/headlines/fracking-top-3-pros-and-cons/).
 2. **Energy Independence**:
-    
     - Fracking has enabled the United States to produce and export more natural gas.
     - [This increased production contributes to **energy independence**, reducing reliance on foreign sources](https://www.procon.org/headlines/fracking-top-3-pros-and-cons/).
 3. **Economic Activity and Employment**:
-    
     - Fracking stimulates economic activity, creating jobs and boosting income.
     - [It supports local communities and industries related to oil and gas extraction](https://epic.uchicago.edu/insights/fracking-has-its-costs-and-benefits-the-trick-is-balancing-them/).
 
 ## Negatives (Cons):
-
 1. **Environmental Impact**:
     - **Air Pollution**: Fracking operations can release pollutants into the air, affecting local air quality.
     - **Water Pollution**: Improperly managed fracking can contaminate groundwater with toxic chemicals.
