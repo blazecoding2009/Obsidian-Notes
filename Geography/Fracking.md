@@ -58,6 +58,7 @@ Fracking is used world-wide mainly in Australia, Bulgaria, Russia and Canada. As
     - [Overreliance on fracking could delay the adoption of renewable energy sources](https://journalistsresource.org/environment/environmental-costs-benefits-fracking/)
 
 # CEO (economic)
+
 https://oilandgasinfo.ca/all-about-fracking/
 https://www.thecanadianencyclopedia.ca/en/article/fracking
 https://en.wikipedia.org/wiki/Fracking_in_Canada
