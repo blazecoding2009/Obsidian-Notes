@@ -24,7 +24,7 @@
     - Fracking, coupled with advances in **horizontal drilling**, has opened new hydrocarbon production areas.
     - Complex wells extend hundreds or thousands of meters below ground, reaching even further through horizontal or directional drilling.
 4. **Key Formations**:
-    - Fracking has been crucial in formations such as:
+    - Fracking has been crucial in creating cities such as:
         - **Cardium**
         - **Duvernay**
         - **Viking** (in Alberta)
@@ -82,6 +82,7 @@ Fracking has spurred advancements in drilling technologies, making resource extr
 By leveraging our shale reserves, we strengthen our position as a leading global energy producer. This boosts our trade balance and fosters economic resilience.
 
 Fracking is essential for ensuring energy independence, driving economic growth, supporting job creation, and facilitating a cleaner energy transition.
+
 https://oilandgasinfo.ca/all-about-fracking/
 https://www.thecanadianencyclopedia.ca/en/article/fracking
 https://en.wikipedia.org/wiki/Fracking_in_Canada
