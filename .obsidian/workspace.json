@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e8469378e4bf486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energy Flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Fracking.md",
+                "file": "Energy Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Fracking.md",
+                "file": "Energy Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Fracking.md"
+                "file": "Energy Flow.md"
               }
             }
           },
@@ -169,12 +181,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20d17625deae4c0c",
+  "active": "9e8469378e4bf486",
   "lastOpenFiles": [
+    "Energy Flow.md",
+    "Geography/Fracking.md",
     "Science/Carbon Cycle.md",
     "Biodiversity.md",
     "Music Theory.md",
-    "Geography/Fracking.md",
     "Geography/Chapter 3 - Physical Geography.md",
     "Geography/Resources.md",
     "Geography/Sustainability.md",
