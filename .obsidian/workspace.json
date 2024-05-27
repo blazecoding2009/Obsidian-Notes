@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06c5c5f5b23907e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Population Distribution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Fracking.md",
+                "file": "Population Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Fracking.md",
+                "file": "Population Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Fracking.md"
+                "file": "Population Distribution.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20d17625deae4c0c",
+  "active": "06c5c5f5b23907e0",
   "lastOpenFiles": [
-    "Energy Flow.md",
+    "Population Distribution.md",
     "Geography/Fracking.md",
+    "Energy Flow.md",
     "Science/Carbon Cycle.md",
     "Biodiversity.md",
     "Music Theory.md",
