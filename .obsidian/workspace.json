@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energy Flow.md",
+                "file": "Geography/Fracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energy Flow.md",
+                "file": "Geography/Fracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energy Flow.md"
+                "file": "Geography/Fracking.md"
               }
             }
           },
@@ -181,7 +181,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e8469378e4bf486",
+  "active": "20d17625deae4c0c",
   "lastOpenFiles": [
     "Energy Flow.md",
     "Geography/Fracking.md",
