@@ -25,7 +25,7 @@
         - Religion
         - Medical care
         - Cost of living
-
+ 
 ![[Pasted image 20240530085136.png]]
 
 #### Obstacles to Migration
