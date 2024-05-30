@@ -57,6 +57,14 @@
 ### Visualizations to Explore and Extend
 - **World’s Immigration Visualized**
 - **Global Flow of People**
-### Current Events
 
-- **What’s going on in Ukraine** (Vice): Stay updated on recent developments regarding the situation in Ukraine.
+ 1. 
+	 1. The percentage of Aboriginal and Métis peoples in Canada's population increasing or decreasing? If you do not know the answer, how would you find the data?
+	 2. What data did you find?
+	 
+2. To what extent are the push and pull factors connected to Canadian immigration the same today as they were a century ago? 
+	
+3. What other countries did your family/guardian consider moving to? Why did they consider Canada along with these countries? Why did they choose Canada?
+		We though of the US but chose Canada instead due to its healthcare, education system and some other factors such as other family and friends in the country.
+
+
