@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b783691f0a668a82",
+        "id": "a761ebfec2a5fa62",
         "type": "tabs",
         "children": [
           {
-            "id": "322d1f9910633cf5",
+            "id": "0c6fe2e34ba0ef17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Carbon Cycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20d17625deae4c0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Fracking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48f7bdc429142bb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Migration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e8469378e4bf486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Energy Flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06c5c5f5b23907e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Demographic Transition Model.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demographic Transition Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demographic Transition Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Demographic Transition Model.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,26 +149,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06c5c5f5b23907e0",
+  "active": "0c6fe2e34ba0ef17",
   "lastOpenFiles": [
-    "Population Distribution.md",
-    "Migration.md",
-    "2024-05-31.md",
-    "Demographic Transition Model.md",
-    "Pasted image 20240530090827.png",
-    "Pasted image 20240530090817.png",
-    "Pasted image 20240530090756.png",
-    "Pasted image 20240530085136.png",
+    "Science/Energy Flow.md",
+    "Geography/Migration.md",
     "Geography/Fracking.md",
-    "Energy Flow.md",
     "Science/Carbon Cycle.md",
-    "Geography/Biodiversity.md",
+    "2024-05-31.md",
     "Music Theory.md",
+    "Geography/Pasted image 20240530090827.png",
+    "Geography/Pasted image 20240530090817.png",
+    "Geography/Pasted image 20240530090756.png",
+    "Geography/Pasted image 20240530085136.png",
+    "Science/Pasted image 20240516101221.png",
+    "Geography/Demographic Transition Model.md",
+    "Geography/Population Distribution.md",
+    "Geography/Biodiversity.md",
     "Geography/Chapter 3 - Physical Geography.md",
     "Geography/Resources.md",
     "Geography/Sustainability.md",
     "Geography/Tragedy of the commons.md",
-    "Pasted image 20240516101221.png",
     "Geography/Geography Thinking Concepts.md",
     "conflict-files-obsidian-git.md",
     "Tips.md",
