@@ -1,0 +1,1 @@
+LO: To be able to explain changes in Birth Rates, Death Rates and 

@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "db76c3982b2cf9e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demographic Transition Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9e8469378e4bf486",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Migration.md",
+                "file": "Demographic Transition Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Migration.md",
+                "file": "Demographic Transition Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Migration.md"
+                "file": "Demographic Transition Model.md"
               }
             }
           },
@@ -205,14 +217,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48f7bdc429142bb5",
+  "active": "db76c3982b2cf9e7",
   "lastOpenFiles": [
+    "Migration.md",
+    "Demographic Transition Model.md",
     "Pasted image 20240530090827.png",
     "Pasted image 20240530090817.png",
     "Pasted image 20240530090756.png",
     "Pasted image 20240530085136.png",
     "Geography/Fracking.md",
-    "Migration.md",
     "Population Distribution.md",
     "Energy Flow.md",
     "Science/Carbon Cycle.md",
