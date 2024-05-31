@@ -2,7 +2,7 @@ LO: To be able to explain changes in Birth Rates, Death Rates and population for
 
 | Stage                           | High Proficiency    | Early Expanding | Late Expanding | Low Stationary | Declining |
 | ------------------------------- | ------------------- | --------------- | -------------- | -------------- | --------- |
-| BR & DR (Per 1000 ppl per year) | High death rate, Hi |                 |                |                |           |
+| BR & DR (Per 1000 ppl per year) |                     |                 |                |                |           |
 | Examples                        | A few remote groups |                 |                |                |           |
 | Birth Rate                      |                     |                 |                |                |           |
 | Death Rate                      |                     |                 |                |                |           |
