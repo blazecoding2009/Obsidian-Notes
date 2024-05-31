@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "db76c3982b2cf9e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Demographic Transition Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9e8469378e4bf486",
             "type": "leaf",
             "state": {
@@ -73,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Population Distribution.md",
+                "file": "Demographic Transition Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,16 +205,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db76c3982b2cf9e7",
+  "active": "06c5c5f5b23907e0",
   "lastOpenFiles": [
+    "Population Distribution.md",
     "Migration.md",
+    "2024-05-31.md",
     "Demographic Transition Model.md",
     "Pasted image 20240530090827.png",
     "Pasted image 20240530090817.png",
     "Pasted image 20240530090756.png",
     "Pasted image 20240530085136.png",
     "Geography/Fracking.md",
-    "Population Distribution.md",
     "Energy Flow.md",
     "Science/Carbon Cycle.md",
     "Geography/Biodiversity.md",
