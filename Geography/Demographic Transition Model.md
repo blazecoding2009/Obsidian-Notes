@@ -1,14 +1,14 @@
 LO: To be able to explain changes in Birth Rates, Death Rates and population for the various demographics stages
 
-| Stage                           | High Proficiency | Early Expanding | Late Expanding | Low Stationary | Declining |
-| ------------------------------- | ---------------- | --------------- | -------------- | -------------- | --------- |
-| BR & DR (Per 1000 ppl per year) |                  |                 |                |                |           |
-| Examples                        |                  |                 |                |                |           |
-| Birth Rate                      |                  |                 |                |                |           |
-| Death Rate                      |                  |                 |                |                |           |
-| Reasons for changes in BR       |                  |                 |                |                |           |
-| Reasons for changes in DR       |                  |                 |                |                |           |
-| Population pyramid              |                  |                 |                |                |           |
+| Stage                           | High Proficiency    | Early Expanding | Late Expanding | Low Stationary | Declining |
+| ------------------------------- | ------------------- | --------------- | -------------- | -------------- | --------- |
+| BR & DR (Per 1000 ppl per year) | High death rate, Hi |                 |                |                |           |
+| Examples                        | A few remote groups |                 |                |                |           |
+| Birth Rate                      |                     |                 |                |                |           |
+| Death Rate                      |                     |                 |                |                |           |
+| Reasons for changes in BR       |                     |                 |                |                |           |
+| Reasons for changes in DR       |                     |                 |                |                |           |
+| Population pyramid              |                     |                 |                |                |           |
 
 - **Definition**: The Demographic Transition Model (DTM) describes the transition from high birth rates (BRs) and high death rates (DRs) to low birth rates and low death rates as a country develops.
 - **Purpose**: To illustrate how changes in birth rates and death rates over time affect population growth.
