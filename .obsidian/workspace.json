@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d64ffabbd1cd9825",
+        "id": "040192546f6d2db5",
         "type": "tabs",
         "children": [
           {
-            "id": "dd4c3e7cab6a4bc6",
+            "id": "98022fae2e4ee412",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,12 +155,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd4c3e7cab6a4bc6",
+  "active": "98022fae2e4ee412",
   "lastOpenFiles": [
+    "Geography/Demographic Transition Model.md",
+    "Pasted image 20240531090158.png",
     "Geography/Geography Thinking Concepts.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Geography/Demographic Transition Model.md",
     "Geography/Migration.md",
     "Science/Energy Flow.md",
     "Geography/Fracking.md",
