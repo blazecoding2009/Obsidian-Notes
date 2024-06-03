@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Communities.md",
+                "file": "Liveable Communities.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Communities.md",
+                "file": "Liveable Communities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Communities.md",
+                "file": "Liveable Communities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communities.md"
+                "file": "Liveable Communities.md"
               }
             }
           },
@@ -171,7 +171,7 @@
   },
   "active": "32c8897dc92c0702",
   "lastOpenFiles": [
-    "Communities.md",
+    "Liveable Communities.md",
     "Geography/Demographic Transition Model.md",
     "Geography/Images/Pasted image 20240530090756.png",
     "Geography/Images/Pasted image 20240530085136.png",
