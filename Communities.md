@@ -1,0 +1,1 @@
+Importnat parts of communites
