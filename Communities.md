@@ -1,1 +1,1 @@
-Importnat parts of communites
+Important parts of communities
