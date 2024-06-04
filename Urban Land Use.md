@@ -37,7 +37,8 @@
         - Provides jobs and economic base
         - Located near transportation routes
         - Requires large areas, often on city outskirts
-6. **Commercial (4%)**
+        - Grew as cities grew
+1. **Commercial (4%)**
     - Purpose: Buying, selling, trading goods and services
     - Characteristics:
         - Growth influenced by car accessibility
