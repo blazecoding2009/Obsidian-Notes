@@ -54,7 +54,7 @@
     3. **Residential-Commercial**
         - Conflict: Population far from employment opportunities
 
-**Liveable Communities**
+**Livable Communities**
 - **Rural vs. Urban**
     - Rural: Population < 1,000, density < 400 people/km²
     - Urban: Population > 1,000, density ≥ 400 people/km²
