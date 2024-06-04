@@ -4,9 +4,7 @@
 - Municipal governments divide land into six types of land uses to ensure functionality.
 
 **6 Land Use Types**
-
 1. **Residential (40%)**
-    
     - Purpose: Housing
     - Characteristics:
         - Various income levels and lifestyles
@@ -15,8 +13,7 @@
         - Low Density
         - Medium Density
         - High Density
-2. **Transportation (33%)**
-    
+2. **Transportation (33%)**    
     - Purpose: Movement of goods and people
     - Components:
         - Vehicles: bikes, motorbikes, cars, trucks, public transit
@@ -26,25 +23,21 @@
             - Local roads
         - Terminal Facilities: bus and train stations
 3. **Institutional (10%)**
-    
     - Purpose: Community services
     - Characteristics:
         - Occupied by schools, hospitals, government offices, places of worship
 4. **Open Space (7%)**
-    
     - Purpose: Leisure and recreation
     - Characteristics:
         - Protected by laws
         - Examples: soccer fields, arenas, parks, trails
 5. **Industrial (6%)**
-    
     - Purpose: Industry
     - Characteristics:
         - Provides jobs and economic base
         - Located near transportation routes
         - Requires large areas, often on city outskirts
 6. **Commercial (4%)**
-    
     - Purpose: Buying, selling, trading goods and services
     - Characteristics:
         - Growth influenced by car accessibility
@@ -52,7 +45,6 @@
         - CBD: Central Business District (downtown shopping area)
 
 **Land Use Conflict**
-
 - Certain land uses can conflict with each other.
 - Examples:
     1. **Residential-Open Space**
@@ -63,13 +55,11 @@
         - Conflict: Population far from employment opportunities
 
 **Liveable Communities**
-
 - **Rural vs. Urban**
     - Rural: Population < 1,000, density < 400 people/km²
     - Urban: Population > 1,000, density ≥ 400 people/km²
 
 **Canadian Settlement Patterns**
-
 - Settlers were assigned plots of land, creating distinctive settlement patterns.
 - **Settlement patterns:** Distribution of cultural activities over a given area in a specific time period.
 
