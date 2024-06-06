@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Liveable Communities.md",
+                "file": "Geography/Sustainability.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Urban Land Use.md",
+                "file": "Geography/Liveable Communities.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Urban Land Use.md",
+                "file": "Geography/Liveable Communities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Urban Land Use.md",
+                "file": "Geography/Liveable Communities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Urban Land Use.md"
+                "file": "Geography/Liveable Communities.md"
               }
             }
           },
@@ -183,9 +183,10 @@
   },
   "active": "1b84a50ae8f66cb6",
   "lastOpenFiles": [
-    "Geography/Liveable Communities.md",
     "Urban Land Use.md",
     "Geography/Demographic Transition Model.md",
+    "Geography/Sustainability.md",
+    "Geography/Liveable Communities.md",
     "Geography/Images/Pasted image 20240530090756.png",
     "Geography/Images/Pasted image 20240530085136.png",
     "Geography/Images",
@@ -211,7 +212,6 @@
     "Geography/Biodiversity.md",
     "Geography/Chapter 3 - Physical Geography.md",
     "Geography/Resources.md",
-    "Geography/Sustainability.md",
     "Geography/Tragedy of the commons.md",
     "conflict-files-obsidian-git.md",
     "Classes/French/Les Subjonctif.md",
