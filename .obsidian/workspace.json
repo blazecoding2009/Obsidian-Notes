@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Liveable Communities.md",
+                "file": "Science/Energy Flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Liveable Communities.md",
+                "file": "Science/Energy Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Liveable Communities.md",
+                "file": "Science/Energy Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Liveable Communities.md"
+                "file": "Science/Energy Flow.md"
               }
             }
           },
@@ -183,10 +183,11 @@
   },
   "active": "1b84a50ae8f66cb6",
   "lastOpenFiles": [
+    "Science/Carbon Cycle.md",
+    "Geography/Liveable Communities.md",
     "Urban Land Use.md",
     "Geography/Demographic Transition Model.md",
     "Geography/Sustainability.md",
-    "Geography/Liveable Communities.md",
     "Geography/Images/Pasted image 20240530090756.png",
     "Geography/Images/Pasted image 20240530085136.png",
     "Geography/Images",
@@ -205,7 +206,6 @@
     "Geography/Migration.md",
     "Science/Energy Flow.md",
     "Geography/Fracking.md",
-    "Science/Carbon Cycle.md",
     "2024-05-31.md",
     "Geography/Images/Pasted image 20240530090827.png",
     "Geography/Population Distribution.md",
