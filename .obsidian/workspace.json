@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography/Demographic Transition Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32c8897dc92c0702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/Sustainability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b84a50ae8f66cb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Energy Flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73d04ac89800c684",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Carbon Cycle.md",
+                "file": "Geography/Geography Thinking Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Carbon Cycle.md",
+                "file": "Geography/Geography Thinking Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Carbon Cycle.md",
+                "file": "Geography/Geography Thinking Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Carbon Cycle.md"
+                "file": "Geography/Geography Thinking Concepts.md"
               }
             }
           },
@@ -193,27 +156,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73d04ac89800c684",
+  "active": "d9a750746e9a505e",
   "lastOpenFiles": [
+    "Geography/Biodiversity.md",
+    "Geography/Chapter 3 - Physical Geography.md",
+    "Geography/Demographic Transition Model.md",
+    "Geography/Images/Pasted image 20240531090627.png",
+    "Geography/Images/Pasted image 20240531090919.png",
+    "Geography/Images/Pasted image 20240531090925.png",
     "Science/Carbon Cycle.md",
     "Geography/Liveable Communities.md",
     "Urban Land Use.md",
-    "Geography/Demographic Transition Model.md",
     "Geography/Sustainability.md",
     "Geography/Images/Pasted image 20240530090756.png",
     "Geography/Images/Pasted image 20240530085136.png",
     "Geography/Images",
     "Music Theory.md",
     "Geography/Images/Pasted image 20240531090158.png",
-    "Geography/Images/Pasted image 20240531090627.png",
-    "Geography/Images/Pasted image 20240531090919.png",
     "Tips.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Geography/Images/Pasted image 20240531090941.png",
     "Geography/Images/Pasted image 20240531090936.png",
     "Geography/Images/Pasted image 20240531090931.png",
-    "Geography/Images/Pasted image 20240531090925.png",
     "Geography/Geography Thinking Concepts.md",
     "Geography/Migration.md",
     "Science/Energy Flow.md",
@@ -221,8 +186,6 @@
     "2024-05-31.md",
     "Geography/Images/Pasted image 20240530090827.png",
     "Geography/Population Distribution.md",
-    "Geography/Biodiversity.md",
-    "Geography/Chapter 3 - Physical Geography.md",
     "Geography/Resources.md",
     "Geography/Tragedy of the commons.md",
     "conflict-files-obsidian-git.md",
