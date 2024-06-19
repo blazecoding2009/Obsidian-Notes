@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73d04ac89800c684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science/Carbon Cycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Energy Flow.md",
+                "file": "Science/Carbon Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Energy Flow.md",
+                "file": "Science/Carbon Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Energy Flow.md"
+                "file": "Science/Carbon Cycle.md"
               }
             }
           },
@@ -181,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b84a50ae8f66cb6",
+  "active": "73d04ac89800c684",
   "lastOpenFiles": [
     "Science/Carbon Cycle.md",
     "Geography/Liveable Communities.md",
