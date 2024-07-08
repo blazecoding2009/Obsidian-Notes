@@ -11,11 +11,9 @@
             "id": "d9a750746e9a505e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Geography/Liveable Communities.md",
-                "mode": "source",
-                "source": false
+                "file": "Geography/Images/Pasted image 20240531090627.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Liveable Communities.md",
+                "file": "Geography/Images/Pasted image 20240531090627.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Liveable Communities.md",
+                "file": "Geography/Images/Pasted image 20240531090627.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography/Liveable Communities.md"
+                "file": "Geography/Images/Pasted image 20240531090627.png"
               }
             }
           },
@@ -158,6 +156,10 @@
   },
   "active": "d9a750746e9a505e",
   "lastOpenFiles": [
+    "Geography/Images/Pasted image 20240531090919.png",
+    "Geography/Images/Pasted image 20240531090925.png",
+    "Geography/Images/Pasted image 20240531090936.png",
+    "Geography/Liveable Communities.md",
     "Geography/Fracking.md",
     "Tips.md",
     "Geography/Geography Thinking Concepts.md",
@@ -165,10 +167,7 @@
     "Geography/Chapter 3 - Physical Geography.md",
     "Geography/Demographic Transition Model.md",
     "Geography/Images/Pasted image 20240531090627.png",
-    "Geography/Images/Pasted image 20240531090919.png",
-    "Geography/Images/Pasted image 20240531090925.png",
     "Science/Carbon Cycle.md",
-    "Geography/Liveable Communities.md",
     "Urban Land Use.md",
     "Geography/Sustainability.md",
     "Geography/Images/Pasted image 20240530090756.png",
@@ -179,7 +178,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Geography/Images/Pasted image 20240531090941.png",
-    "Geography/Images/Pasted image 20240531090936.png",
     "Geography/Images/Pasted image 20240531090931.png",
     "Geography/Migration.md",
     "Science/Energy Flow.md",
