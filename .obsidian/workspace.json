@@ -11,10 +11,8 @@
             "id": "d9a750746e9a505e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Geography/Images/Pasted image 20240531090627.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography/Images/Pasted image 20240531090627.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography/Images/Pasted image 20240531090627.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Geography/Images/Pasted image 20240531090627.png"
-              }
+              "state": {}
             }
           },
           {
@@ -154,8 +148,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9a750746e9a505e",
+  "active": "8937d5ab6f02bcd6",
   "lastOpenFiles": [
+    "Grade 9/Urban Land Use.md",
+    "Grade 9/Tips.md",
+    "Grade 9/Music Theory.md",
+    "Grade 9/Science/Energy Flow.md",
+    "Grade 9/Science/Pasted image 20240516101221.png",
+    "Grade 9/Science/Carbon Cycle.md",
+    "Grade 9/Science",
+    "Grade 9/Geography/Images/Pasted image 20240531090941.png",
+    "Grade 9/Geography/Images/Pasted image 20240531090936.png",
+    "Grade 9/Geography/Images/Pasted image 20240531090925.png",
+    "Grade 9/Geography/Images/Pasted image 20240531090931.png",
+    "Grade 9/Geography/Images/Pasted image 20240531090919.png",
+    "Grade 9/Geography/Tragedy of the commons.md",
+    "Grade 9/Geography/Sustainability.md",
+    "Grade 9/Geography/Resources.md",
+    "Grade 9/Geography/Population Distribution.md",
+    "Grade 9/Geography/Migration.md",
+    "Grade 9/Geography/Liveable Communities.md",
+    "Grade 9/Geography/Images",
+    "Grade 9/Geography/Geography Thinking Concepts.md",
+    "Grade 9/Geography/Fracking.md",
+    "Grade 9/Geography/Demographic Transition Model.md",
+    "Grade 9/Geography/Chapter 3 - Physical Geography.md",
+    "Grade 9/Geography/Biodiversity.md",
+    "Grade 9/Geography",
+    "Grade 9",
     "Geography/Images/Pasted image 20240531090919.png",
     "Geography/Images/Pasted image 20240531090925.png",
     "Geography/Images/Pasted image 20240531090936.png",
@@ -170,31 +190,13 @@
     "Science/Carbon Cycle.md",
     "Urban Land Use.md",
     "Geography/Sustainability.md",
-    "Geography/Images/Pasted image 20240530090756.png",
-    "Geography/Images/Pasted image 20240530085136.png",
     "Geography/Images",
-    "Music Theory.md",
-    "Geography/Images/Pasted image 20240531090158.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Geography/Images/Pasted image 20240531090941.png",
-    "Geography/Images/Pasted image 20240531090931.png",
-    "Geography/Migration.md",
-    "Science/Energy Flow.md",
-    "2024-05-31.md",
-    "Geography/Images/Pasted image 20240530090827.png",
-    "Geography/Population Distribution.md",
-    "Geography/Resources.md",
-    "Geography/Tragedy of the commons.md",
-    "conflict-files-obsidian-git.md",
-    "Classes/French/Les Subjonctif.md",
     "Classes/French",
     "Classes",
-    "2024-01-15.md",
-    "Test Note.md",
     "Health",
     "Geography",
-    "Science",
-    "Obsidian-Notes"
+    "Science"
   ]
 }
