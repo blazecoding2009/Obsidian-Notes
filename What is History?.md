@@ -37,7 +37,7 @@ Definition: The <u>study</u> and <u>interpretation</u> of the past
 
 Video notes:
 1. Does this work as a piece of evidence
-		I believe this 
+		I believe this is a piece of first-hand evidence
 
 
 3. Historical Significance
