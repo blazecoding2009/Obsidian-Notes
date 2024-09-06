@@ -35,8 +35,12 @@ Definition: The <u>study</u> and <u>interpretation</u> of the past
 >  - sometimes not true
 >  - second hand accounts are sometimes profit driven  
 
-3. Historical Significance
-4. Historical Perspective
-5. Cause and Consequences
-6. Continuity and Change
-7. Ethical Dimensions
+### Bias
+-  A one sided view for way of seeing an event, person or thing
+-  Can cause selection or emphasis on some facts while ignoring others
+-  Bias can be exclusionary ex. leaving out a few points to make ppl think its good/bad
+1. Historical Significance
+2. Historical Perspective
+3. Cause and Consequences
+4. Continuity and Change
+5. Ethical Dimensions
