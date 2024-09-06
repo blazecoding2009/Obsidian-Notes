@@ -39,6 +39,7 @@ Definition: The <u>study</u> and <u>interpretation</u> of the past
 -  A one sided view for way of seeing an event, person or thing
 -  Can cause selection or emphasis on some facts while ignoring others
 -  Bias can be exclusionary ex. leaving out a few points to make ppl think its good/bad
+
 1. Historical Significance
 2. Historical Perspective
 3. Cause and Consequences
