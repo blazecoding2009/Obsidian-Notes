@@ -36,8 +36,9 @@ Definition: The <u>study</u> and <u>interpretation</u> of the past
 >  - second hand accounts are sometimes profit driven  
 
 Video notes:
-1. Does this work as a piece of evidence
-		I believe this is a piece of first-hand evidence and it is reliable as it was recorded during the actual war
+	I believe this is a piece of first-hand evidence and it is reliable as it was recorded during the actual war
+
+
 
 
 3. Historical Significance
