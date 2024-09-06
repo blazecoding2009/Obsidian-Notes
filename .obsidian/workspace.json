@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "59b786ba29859ea9",
+        "id": "02570d52ef241a14",
         "type": "tabs",
         "children": [
           {
-            "id": "1b59dd7b982219eb",
+            "id": "74e6c9870ec5ebf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "What is History?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a75edde16cfc0906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grade 9/Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,11 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b59dd7b982219eb",
+  "active": "74e6c9870ec5ebf5",
   "lastOpenFiles": [
+    "Grade 9/Tips.md",
     "What is History?.md",
     "Grade 9/Urban Land Use.md",
-    "Grade 9/Tips.md",
     "Grade 9/Music Theory.md",
     "Grade 9/Science/Energy Flow.md",
     "Grade 9/Science/Pasted image 20240516101221.png",
