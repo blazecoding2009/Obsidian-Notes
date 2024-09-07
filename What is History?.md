@@ -35,13 +35,24 @@ Definition: The <u>study</u> and <u>interpretation</u> of the past
 >  - sometimes not true
 >  - second hand accounts are sometimes profit driven  
 
-### Bias
--  A one sided view for way of seeing an event, person or thing
--  Can cause selection or emphasis on some facts while ignoring others
--  Bias can be exclusionary ex. leaving out a few points to make ppl think its good/bad
+ > [!note]
+ > Bias
+ > - A one sided view for way of seeing an event, person or thing
+>-  Can cause selection or emphasis on some facts while ignoring others
+>-  Bias can be exclusionary ex. leaving out a few points to make ppl think its good/bad
 
-1. Historical Significance
-2. Historical Perspective
-3. Cause and Consequences
-4. Continuity and Change
-5. Ethical Dimensions
+
+Evidence itself is not enough, you need more info. more about it in next thign
+
+2. Historical Significance
+		Everything cannot be recorded. You can't record someone's entire life.
+		5 BIG REASONS history gets recorded
+			 - People at the time thought it was important such as buffalos
+			 - It affected lots of people such as a war
+			 - It affected people for a long time such as a government
+			 - It still affects attitudes or beliefs today such as religion
+			 - It led to other important events 
+3. Historical Perspective
+4. Cause and Consequences
+5. Continuity and Change
+6. Ethical Dimensions
