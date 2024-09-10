@@ -56,3 +56,9 @@ Evidence itself is not enough, you need more info. more about it in next thign
 4. Cause and Consequences
 5. Continuity and Change
 6. Ethical Dimensions
+
+
+# Causes of the War
+
+## Imperialism
+The extension of one nation's authority or control over other lands by economic, political or military means. basically the land becomes a colony
