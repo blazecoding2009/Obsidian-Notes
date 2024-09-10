@@ -53,12 +53,37 @@ Evidence itself is not enough, you need more info. more about it in next thign
 			 - It still affects attitudes or beliefs today such as religion
 			 - It led to other important events 
 3. Historical Perspective
+		- It's important to identify what perspectives people had throughout history.
+		- Everyone has different perspectives because of their upbringing, status, race, and culture.
+		- What was the society and culture of the time?
+		    - We need to understand their culture, what values people held, and their beliefs.
+		    - See history through their eyes.
+		        - **Note:** This doesn't mean you need to agree with their perspective.
 4. Cause and Consequences
-5. Continuity and Change
-6. Ethical Dimensions
+		-**The domino effect:** What is the relationship between the event and the result?
+		- **Interpret and analyse** the results of the event.
+		    - There are many causes and consequences to events.
+		    - They vary in significance.
+		- **Two factors causing events:**
+		    1. People and their decisions.
+		    2. Conditions (e.g., social, political, economic, cultural).
+2. Continuity and Change
+3. Ethical Dimensions
 
 
 # Causes of the War
 
 ## Imperialism
 The extension of one nation's authority or control over other lands by economic, political or military means. basically the land becomes a colony
+
+One of the biggest example of this was the British empire because they colonized almost 25% of the world. 
+
+Advantages:
+- economic
+- colonies provide raw material, motherland takes these raw materials for their industries and exports manufactured goods
+
+Many European countries had colonies:
+France - North Africa, Indochina
+Portugal - East Indies
+Belgium - Africa
+Germany - started late but had a few colonies in Africa. They wanted more and showed some aggression in africa
