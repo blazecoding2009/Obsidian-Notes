@@ -145,3 +145,11 @@ A strong sense of pride in one's country, belief that their country is destined 
 a recent independent state which believed it was destined for greatness as well and resented the power of the Britain and France when they were trying to establish their own colonies
 #### Austria-Hungary
 Many groups wanted to be an independent state from Austria such as Czechs and Slavic minorities, and Austria wants to ally with the Germans to deal with these challenges
+
+## The Spark
+### Tension in the Balkan States
+-  Serbia and Bosnia had broken away from Turkey
+	- Bosnia was immediately taken over by Austria-Hungary
+	- Serbia became an independent state and looked for an alliance with Russia, which they got, and Russia swore it would stand by Serbia in time of need
+	- Serbian nationalists were unhappy that Bosnia had been taken over by Austria-Hungary and wanted Bosnia to be part of Serbia
+- Austria leader, archduke Franz Ferdinand, and his wife were shot dead and they had a reason to start the war. They had a full summer where letters were going back and forth from Austria and Serbia
