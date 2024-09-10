@@ -60,17 +60,36 @@ Evidence itself is not enough, you need more info. more about it in next thign
 		    - See history through their eyes.
 		        - **Note:** This doesn't mean you need to agree with their perspective.
 4. Cause and Consequences
-		-**The domino effect:** What is the relationship between the event and the result?
+		- **The domino effect:** What is the relationship between the event and the result?
 		- **Interpret and analyse** the results of the event.
 		    - There are many causes and consequences to events.
 		    - They vary in significance.
 		- **Two factors causing events:**
 		    1. People and their decisions.
 		    2. Conditions (e.g., social, political, economic, cultural).
-2. Continuity and Change
-3. Ethical Dimensions
-
-
+5. Continuity and Change
+		- **Understanding certain things** (e.g., attitudes, processes, actions, and beliefs) change over time, and certain things stay the same.
+		- **How and why do things change** over time?
+		- **How and why do beliefs evolve** or stay the same?
+		- Are the changes positive, negative, or neutral?
+		- What will people say about us?
+6. Ethical Dimensions
+		- **Moral principles** that govern a person's behavior or conducting of an activity.
+		- **Questioning the ethics** of the people:
+		    - Was it fair?
+		    - Was it honest?
+		- People shouldn’t be excused from their actions, but their actions should be examined.
+	
+## Themes in Canadian History
+1. Immigration and multiculturalism
+2. French-English relations
+3. Canada's role in the world
+4. Indigenous issues
+5. Canadian-American relationships
+6. Gender equity
+7. Social injustice
+8. Regionalism (e.g., regions in Canada)
+9. Technology and Canadian society
 # Causes of the War
 
 ## Imperialism
@@ -86,4 +105,8 @@ Many European countries had colonies:
 France - North Africa, Indochina
 Portugal - East Indies
 Belgium - Africa
-Germany - started late but had a few colonies in Africa. They wanted more and showed some aggression in africa
+Germany - started late but had a few colonies in Africa. They wanted more and showed some aggression in Africa
+
+## Nationalism
+A strong sense of pride in one's country, belief that their country is destined for greatness and superior to others
+
