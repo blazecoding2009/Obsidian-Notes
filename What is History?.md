@@ -91,18 +91,18 @@ Evidence itself is not enough, you need more info. more about it in next thign
 8. Regionalism (e.g., regions in Canada)
 9. Technology and Canadian society
 ## Causes of World War I
-#### **Key Concepts**
+### **Key Concepts**
     Militarism: Building up military forces and weapons.
     Alliances: Countries forming partnerships for mutual protection.
-#### **British Militarism**
+##### **British Militarism**
     Naval Supremacy: Britain aimed to maintain the largest navy in the world.
     Colonial Protection: The navy was necessary to protect Britain's vast colonial empire.
     Dreadnought: Britain introduced the dreadnought, a powerful battleship, in 1906.
-#### **German Militarism**
+##### **German Militarism**
     Industrialization: Germany's rapid industrialization required a strong military.
     Colonial Expansion: Germany sought to expand its colonial empire.
     Naval Build-up: Germany aimed to challenge British naval supremacy.
-#### **Arms Race**
+##### **Arms Race**
     Competition: The growing militaries of Britain and Germany led to an arms race.
     Fear and Tension: The increased military spending created a climate of fear and tension.
 
