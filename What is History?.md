@@ -152,5 +152,5 @@ Many groups wanted to be an independent state from Austria such as Czechs and Sl
 	- Bosnia was immediately taken over by Austria-Hungary
 	- Serbia became an independent state and looked for an alliance with Russia, which they got, and Russia swore it would stand by Serbia in time of need
 	- Serbian nationalists were unhappy that Bosnia had been taken over by Austria-Hungary and wanted Bosnia to be part of Serbia
-- Austria leader, archduke Franz Ferdinand, and his wife were shot dead and they had a reason to start the war. They had a full summer where letters were going back and forth from Austria and Serbia. Germany comes in and states unacceptable terms and they reject.
-- WW1 starts on July 28, 1914.
+- Austria leader, archduke Franz Ferdinand, and his wife were shot dead and they had a reason to start the war. They had a full summer where letters were going back and forth from Austria and Serbia. Germany comes in and states unacceptable terms and they reject. WW1 starts on July 28, 1914.
+- Crown prince of Austria, Archduke Franz Ferdinand and his wife, Countess Sophia visited Sarajevo to inspect troops there. A young Serbian conspirators planned to assassinate the Prince.
