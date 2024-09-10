@@ -129,10 +129,9 @@ A strong sense of pride in one's country, belief that their country is destined 
 - Jealous of Britain's power and believed that Britain was purposely restricting it from expanding and becoming more powerful
 - They believed that Germany was the natural leader of Europe, it had a strong economy due to industrialisation and a powerful army
 - They were anticipating war and developing plans
-
 ### France
-- They were suspicious of Brian and had a strained relationship, they believed Britain was arrogant
-- They had very tense relationships with Germany as they were defeated by Germany in the Franco-Purrasian war 1870
+- They were suspicious of Britain and had a strained relationship, they believed Britain was arrogant
+- They had very tense relationships with Germany as they were defeated by Germany in the Franco-Prussian war 1870
 	- They lost 2 provinces, Alsace and Lorraine, and wanted revenge
 	- They were also anticipating for war and were developing military plans
 ### Russia
@@ -140,3 +139,9 @@ A strong sense of pride in one's country, belief that their country is destined 
 - They wanted to prove its power and strength by invading and expanding in Asia
 - They were defended by Slaves and warned Austria not to interfere with the Slavic states
 - They were seeking an alliance with Britain which it got
+
+### Other Powers
+#### Italy
+a recent independent state which believed it was destined for greatness as well and resented the power of the Britain and France when they were trying to establish their own colonies
+#### Austria-Hungary
+Many groups wanted to be an independent state from Austria such as Czechs and Slavic minorities, and Austria wants to ally with the Germans to deal with these challenges
