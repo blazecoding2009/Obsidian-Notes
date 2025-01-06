@@ -28,3 +28,8 @@ Example:
 
 ##### Heterogeneous Mixture
 - Heterogenous (2 phase)
+- particles don't mix well together
+Example:
+- pizza, salad dressing
+
+
