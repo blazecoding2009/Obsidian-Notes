@@ -71,3 +71,20 @@ are on the RIGHT side of the periodic table
 - Soluble
 - Close to full shell
 
+#### Alkaline Earth Metals
+- Second column of the periodic table
+- Pretty reactive
+- Insoluble
+- Have 2 valence electrons
+- Close to a full shell (by losing 2 electrons)
+
+#### Halogens
+- “7th” column of the periodic table
+- Have seven valence electrons
+- Toxic and reactive
+- Close to a full shell (by GAINing 1 electron)
+
+#### Noble Gases
+- The last (8th) column of the periodic table
+- Unreactive (inert), stable
+- Already have a full shell
