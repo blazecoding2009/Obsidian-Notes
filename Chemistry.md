@@ -11,3 +11,10 @@ Water - Water Particles
 Sugar - Sugar Particles
 
 #### Mixture
+- Contains atleast 2 different pure or 2 different types of particles
+- Can be separated by physical means
+- variable composition
+- melting/boiling points are a range of temperatures
+
+Example:
+- milk, salad dressing, nails
