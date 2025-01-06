@@ -33,3 +33,12 @@ Example:
 - pizza, salad dressing
 
 
+# The Periodic Table
+- All chemical compounds are composed of elements
+- These elements are organized in the Periodic Table
+
+The periodic table arranges elements by increasing atomic number. The table’s organization into groups and periods helps us predict physical and chemical properties of substances.
+
+Periods - horizontal rows
+Families (groups) - vertical columns
+![[Pasted image 20250106174039.png]]
