@@ -90,3 +90,5 @@ are on the RIGHT side of the periodic table
 - Already have a full shell
 
 ![[Pasted image 20250106175234.png]]
+### Atomic Size, Ionization Energy & Electron Affinity
+![[Pasted image 20250106175646.png]]
