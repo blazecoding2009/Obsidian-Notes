@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "14d500a8e68c4bea",
@@ -161,6 +162,7 @@
   },
   "active": "2c3b97aec1fa51ab",
   "lastOpenFiles": [
+    "Pasted image 20250106175234.png",
     "Pasted image 20250106174347.png",
     "Pasted image 20250106174344.png",
     "Pasted image 20250106174039.png",
@@ -192,7 +194,6 @@
     "Grade 9/Geography",
     "Grade 9",
     "Chemistry.md",
-    "Untitled.canvas",
-    "Pasted image 20250106171953.png"
+    "Untitled.canvas"
   ]
 }

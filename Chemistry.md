@@ -88,3 +88,5 @@ are on the RIGHT side of the periodic table
 - The last (8th) column of the periodic table
 - Unreactive (inert), stable
 - Already have a full shell
+
+![[Pasted image 20250106175234.png]]
