@@ -42,3 +42,32 @@ The periodic table arranges elements by increasing atomic number. The table’s 
 Periods - horizontal rows
 Families (groups) - vertical columns
 ![[Pasted image 20250106174039.png]]
+
+The periodic table is divided into metals and nonmetals.
+##### **Metals**
+on the LEFT side of the periodic table
+- are shiny, malleable and good conductors
+- they react with acids
+- they are usually solid at room temperature
+
+##### Nonmetals
+are on the RIGHT side of the periodic table
+- Are dull, brittle and poor conductors
+- they do no react with acids
+- they can be solid, liquid or gases at room temperature
+
+**EXCEPTION**: Hydrogen is located on the left side of the table (like metals), BUT it is a gas and a nonmetal.
+
+### Chemical Families
+- The groups of the periodic table
+- Elements in the same family have the same number of valence electrons
+- 4 main ones you should know
+![[Pasted image 20250106174347.png]]
+
+#### Alkali Metals
+- First column of the periodic table
+- Very reactive
+- Have one valence electron
+- Soluble
+- Close to full shell
+
