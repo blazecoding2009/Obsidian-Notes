@@ -18,3 +18,13 @@ Sugar - Sugar Particles
 
 Example:
 - milk, salad dressing, nails
+
+##### Solution
+- homogenous (one phase)
+- may be made up of liquids, solids, or gasses
+- they mix together so you don't see the individual particles
+Example:
+- air, salt water, milk, nails
+
+##### Heterogeneous Mixture
+- Heterogenous (2 phase)
