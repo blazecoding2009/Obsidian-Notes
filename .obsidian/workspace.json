@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Chemistry"
             }
+          },
+          {
+            "id": "3263cc0b82244be7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "history.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "history"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,8 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c3b97aec1fa51ab",
+  "active": "3263cc0b82244be7",
   "lastOpenFiles": [
+    "Chemistry.md",
+    "history.md",
     "Pasted image 20250106175646.png",
     "Pasted image 20250106175234.png",
     "Pasted image 20250106174347.png",
@@ -172,7 +189,6 @@
     "Grade 9/Geography/Images/Pasted image 20240531090936.png",
     "Grade 9/Geography/Images/Pasted image 20240531090925.png",
     "Grade 9/Geography/Images/Pasted image 20240531090931.png",
-    "Grade 9/Geography/Images/Pasted image 20240531090919.png",
     "Grade 9/Science/Energy Flow.md",
     "Grade 9/Science/Carbon Cycle.md",
     "Grade 9/Geography/Tragedy of the commons.md",
@@ -193,7 +209,6 @@
     "Grade 9/Music Theory.md",
     "Grade 9/Geography",
     "Grade 9",
-    "Chemistry.md",
     "Untitled.canvas"
   ]
 }
